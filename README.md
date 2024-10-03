@@ -1,7 +1,5 @@
 # Placement-Prediction-Model-for-College-Students
 
-# Student Placement Prediction
-
 ## Project Overview
 
 This project uses machine learning to predict whether a student will be placed in a job after graduation. The model considers factors like CGPA, internships, projects, certifications, extracurricular activities, and aptitude/mock interview scores.
