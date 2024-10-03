@@ -17,7 +17,6 @@ This project uses machine learning to predict whether a student will be placed i
 *   `placement_model.pkl`: The trained machine learning model (e.g., Random Forest, XGBoost) saved for prediction.
 *   `scaler.pkl`: The scaler object used to preprocess input data before feeding it to the model.
 *   `placement_data.csv`: The dataset used to train the model (sample data provided).
-*   `requirements.txt`: Lists the project dependencies (Flask, joblib, scikit-learn, etc.).
 
 ## How to Use
 
